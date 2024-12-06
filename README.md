@@ -1,3 +1,3 @@
 # .NEXT-Zustand
 
-Use Backedn File of Service Management.
+Use Backend File of Service Management.
